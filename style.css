@@ -14,3 +14,18 @@
 .text {
     float: right;
 }
+.nav {
+    background: #0F2438;
+}
+.location {
+    color: white;
+}
+.width_430 {
+    width: 430px;
+}
+.slide_header {
+    border-radius: 45px;
+}
+.slides_mider {
+    width: 500px;
+}
